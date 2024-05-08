@@ -1,0 +1,14 @@
+[
+  {
+	"id_pintor": 5,
+    "nome_pintor": "Miguel Pedro",
+    "data_nascimento": {"$date": "1973-09-30"},
+    "contatos_telefonicos": "955-634-322"
+  },
+  {
+	"id_pintor": 6,
+    "nome_pintor": "Ricardo Santiago",
+    "data_nascimento": {"$date": "2001-10-25"},
+    "contatos_telefonicos": "933-525-393"
+  }
+]
